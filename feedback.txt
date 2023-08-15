@@ -1,0 +1,11 @@
+Olga Senatov & Aleksei Babykin: Pacman 
+Your project is so fun! Nice idea of using the staff pictures on it :D
+It is well structured and the code is clean. Good job!
+I just wish you had used more the OOP concepts and had added the 2min video.
+Besides that is an impressive project to your portfolio.
+
+video presentation in time : none 0/10
+Python OOP: 5/10
+Databases: 8/10
+API/JSON: 10/10
+General score: 6
